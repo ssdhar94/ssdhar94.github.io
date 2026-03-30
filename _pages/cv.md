@@ -33,20 +33,24 @@ Work experience
 * **Motion Planning Engineer — Svaya Robotics Pvt. Ltd., Hyderabad** (July 2025 – Present)
   * Diagnosed and optimized motion planner execution timing, reducing latency to sub-1 ms and improving real-time determinism
   * Identified and resolved real-time timing bottlenecks through collaboration with the embedded systems team
-  * Modeled motor friction characteristics to enhance torque-based collision detection accuracy in a dual-arm robotic system
+  * Modeled motor friction characteristics for torque-based collision detection in a dual-arm robotic system
   * Contributed to system architecture migration from a Finite State Machine (FSM) based planner to a Behavior Tree (BT) based framework, improving modularity of the codebase
-  * Implemented sampling-based motion planners (RRT, RRT*, ABIT*) from scratch without MoveIt, directly integrated into the robot's planning stack
+  * Implemented sampling-based motion planners (RRT, RRT\*, ABIT\*) from scratch without MoveIt, directly integrated into the robot's planning stack
   * Annotated vision datasets using Roboflow to support training of perception models
   * Collaborated with the Computer Vision team to integrate perception outputs with the motion planning stack
   * Tested and validated new features and APIs to ensure system reliability and performance
 
 Skills
 ======
-* **Motion Planning:** RRT, RRT*, ABIT*, Behavior Trees, FSM, trajectory generation, collision detection
-* **Robotics:** PX4 Autopilot, ROS, MoveIt, drone systems, swarm robotics, biped locomotion
-* **Embedded Systems:** ESP32, Teensy 4.1, STM32, Raspberry Pi, real-time control, PWM, MQTT, RTK GNSS, nRF24, LoRa SX1278
-* **Programming:** C++, Python, MATLAB
-* **Tools:** Roboflow, ANSYS, Git, SQL
+* **Programming:** C++, Python, MATLAB/Simulink
+* **Frameworks & Middleware:** PX4, ROS2, MoveIt
+* **Motion Planning:** RRT, RRT\*, ABIT\*, Behavior Trees, FSM, trajectory generation, collision detection
+* **Autonomy & Perception:** Visual SLAM (ORB-SLAM3), Visual-Inertial Odometry (VIO), computer vision, sensor fusion, multi-robot coordination
+* **Embedded Systems:** ESP32, Teensy 4.1, STM32, Raspberry Pi, real-time control, nRF24, LoRa SX1278, RTK GNSS
+* **Communication & Interfaces:** UART, SPI, TCP/UDP, MQTT, DDS
+* **Simulation:** MuJoCo, Gazebo
+* **AI & Vision:** PyTorch, Roboflow, OpenCV
+* **Tools & Systems:** Linux, Git, SQL, Intel VTune Profiler, LTTng Tracing
 
 Publications
 ======
