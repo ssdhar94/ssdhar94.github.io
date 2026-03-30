@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* M.Tech in Mechanics and Design, Indian Institute of Technology, Hyderabad, 2025 — GPA: 9.47/10
+* M.Tech in Mechanics and Design, Indian Institute of Technology, Hyderabad, 2022–2025 — GPA: 9.47/10
 * B.E in Mechanical Engineering, Anil Neerukonda Institute of Technology and Sciences (Andhra University), 2012–2016 — GPA: 8.32/10
 
 Work experience
