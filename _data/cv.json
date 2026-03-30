@@ -1,10 +1,10 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
+    "name": "Neeli Shyam Sridhar",
     "email": "none@example.org",
     "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "website": "https://ssdhar94.github.io",
+    "summary": "Currently employed at Svaya Robotics Pvt. Ltd. Short biography for the left-hand sidebar",
     "location": {
       "address": "",
       "postalCode": "",
@@ -16,7 +16,7 @@
       {
         "network": "Google Scholar",
         "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+        "url": "https://scholar.google.com/citations?user=fPrV7vYAAAAJ"
       },
       {
         "network": "ORCID",
@@ -30,7 +30,26 @@
       }
     ]
   },
-  "work": [],
+  "work": [
+    {
+      "company": "Svaya Robotics Pvt. Ltd.",
+      "position": "Motion Planning Engineer",
+      "website": "",
+      "startDate": "2025-07-01",
+      "endDate": "",
+      "summary": "Motion planning engineer for a dual-arm robotic system.",
+      "highlights": [
+        "Diagnosed and optimized motion planner execution timing, reducing latency to sub-1 ms and improving real-time determinism",
+        "Identified and resolved real-time timing bottlenecks through collaboration with the embedded systems team",
+        "Modeled motor friction characteristics to enhance torque-based collision detection accuracy in a dual-arm robotic system",
+        "Contributed to system architecture migration from a Finite State Machine (FSM) based planner to a Behavior Tree (BT) based framework, improving modularity of the codebase",
+        "Implemented sampling-based motion planners (RRT, RRT*, ABIT*) from scratch without MoveIt, directly integrated into the robot's planning stack",
+        "Annotated vision datasets using Roboflow to support training of perception models",
+        "Collaborated with the Computer Vision team to integrate perception outputs with the motion planning stack",
+        "Tested and validated new features and APIs to ensure system reliability and performance"
+      ]
+    }
+  ],
   "education": [
     {
       "institution": "GitHub University",
@@ -66,87 +85,29 @@
   "references": [],
   "publications": [
     {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "https://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "https://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
+      "name": "Collaborative Payload Transport Using a Four-Quadcopter Swarm with RTK and MQTT-Based Coordination",
+      "publisher": "2025 International Conference on Robotics and Mechatronics (ICRM), IEEE",
+      "releaseDate": "2025-11-07",
+      "website": "https://ieeexplore.ieee.org/abstract/document/11349069/",
+      "summary": "Design and experimental validation of a four-quadcopter swarm system for collaborative payload transport, using a leader-follower architecture with MQTT coordination and RTK GNSS positioning. Successfully transported a 1 kg payload outdoors using PX4 Autopilot."
     }
   ],
-  "presentations": [
-    {
-      "name": "Talk 1 on Relevant Topic in Your Field",
-      "event": "UC San Francisco, Department of Testing",
-      "date": "2012-03-01",
-      "location": "San Francisco, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Tutorial 1 on Relevant Topic in Your Field",
-      "event": "UC-Berkeley Institute for Testing Science",
-      "date": "2013-03-01",
-      "location": "Berkeley, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Talk 2 on Relevant Topic in Your Field",
-      "event": "London School of Testing",
-      "date": "2014-02-01",
-      "location": "London, UK",
-      "description": ""
-    },
-    {
-      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
-      "event": "Testing Institute of America 2014 Annual Conference",
-      "date": "2014-03-01",
-      "location": "Los Angeles, CA, USA",
-      "description": ""
-    }
-  ],
+  "presentations": [],
   "teaching": [
     {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
-      "role": "Undergraduate course",
-      "description": ""
+      "course": "Introduction to Robotics",
+      "institution": "IIT Hyderabad, Department of Mechanical and Aerospace Engineering",
+      "date": "2023-01-01",
+      "role": "Teaching Assistant",
+      "description": "Conducted tutorials and supported lab sessions covering kinematics, dynamics, motion planning, and robot programming (2023–2025)."
     },
     {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
-      "description": ""
+      "course": "Data Acquisition and Control Lab",
+      "institution": "IIT Hyderabad, Department of Mechanical and Aerospace Engineering",
+      "date": "2023-01-01",
+      "role": "Teaching Assistant",
+      "description": "Taught hands-on lab sessions on PLCs and DAQ systems, including sensor interfacing, signal conditioning, and real-time control (2023–2025)."
     }
   ],
-  "portfolio": [
-    {
-      "name": "Portfolio item number 1",
-      "category": "portfolio",
-      "date": "",
-      "url": "",
-      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
-    }
-  ]
+  "portfolio": []
 }

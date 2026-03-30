@@ -11,46 +11,47 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.Tech in Mechanics and Design, Indian Institute of Technology, Hyderabad, 2025 — GPA: 9.47/10
+* B.E in Mechanical Engineering, Anil Neerukonda Institute of Technology and Sciences (Andhra University), 2012–2016 — GPA: 8.32/10
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* **Application Developer — IBM India Pvt. Ltd., Bengaluru** (June 2016 – March 2020)
+  * Enhanced and maintained enterprise financial management software built on Uniface 9.7
+  * Integrated third-party SOAP-based web services into the application, reducing customer application processing time
+  * Contributed to a major software upgrade from a legacy Uniface version to 9.7, enabling secure modern drivers for cross-platform connectivity
+  * Developed SQL views and materialized views for data analysis and reporting
+  * Collaborated with clients and cross-functional teams to define technical requirements for system enhancements
+  * Supported onshore teams in diagnosing and resolving production issues
+  * Authored documentation for system changes, enhancements, and bug fixes
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* **Research Assistant — ASPIRE Lab, IIT Hyderabad** (2022 – 2025)
+  * Conducted research under Prof. R. Prasanth Kumar in the areas of aerial robotics, swarm systems, and biped locomotion
+  * Developed a four-quadcopter swarm system for collaborative payload transport — published at IEEE ICRM 2025 (**Best Paper Award**)
+  * Contributed to experimental validation of a prismatic-knee underactuated biped robot for obstacle crossing — acknowledged in resulting publication
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+* **Motion Planning Engineer — Svaya Robotics Pvt. Ltd., Hyderabad** (July 2025 – Present)
+  * Diagnosed and optimized motion planner execution timing, reducing latency to sub-1 ms and improving real-time determinism
+  * Identified and resolved real-time timing bottlenecks through collaboration with the embedded systems team
+  * Modeled motor friction characteristics to enhance torque-based collision detection accuracy in a dual-arm robotic system
+  * Contributed to system architecture migration from a Finite State Machine (FSM) based planner to a Behavior Tree (BT) based framework, improving modularity of the codebase
+  * Implemented sampling-based motion planners (RRT, RRT*, ABIT*) from scratch without MoveIt, directly integrated into the robot's planning stack
+  * Annotated vision datasets using Roboflow to support training of perception models
+  * Collaborated with the Computer Vision team to integrate perception outputs with the motion planning stack
+  * Tested and validated new features and APIs to ensure system reliability and performance
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **Motion Planning:** RRT, RRT*, ABIT*, Behavior Trees, FSM, trajectory generation, collision detection
+* **Robotics:** PX4 Autopilot, ROS, MoveIt, drone systems, swarm robotics, biped locomotion
+* **Embedded Systems:** ESP32, Teensy 4.1, Raspberry Pi, real-time control, PWM, MQTT, RTK GNSS
+* **Programming:** C++, Python, MATLAB
+* **Tools:** Roboflow, ANSYS, Git, SQL
 
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
 Teaching
@@ -59,6 +60,3 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams

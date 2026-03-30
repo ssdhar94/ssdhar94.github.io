@@ -8,5 +8,9 @@ author_profile: true
 {% include base_path %}
 
 {% for post in site.teaching reversed %}
-  {% include archive-single.html %}
+  <div class="archive__item">
+    <h2 class="archive__item-title">{{ post.title }}</h2>
+    <p><em>{{ post.type }}</em> &mdash; {{ post.venue }}{% if post.date %}, {{ post.date | date: "%Y" }}{% endif %}</p>
+    {% if post.content %}<div class="archive__item-excerpt">{{ post.content }}</div>{% endif %}
+  </div>
 {% endfor %}
