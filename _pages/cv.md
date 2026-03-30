@@ -44,7 +44,7 @@ Skills
 ======
 * **Motion Planning:** RRT, RRT*, ABIT*, Behavior Trees, FSM, trajectory generation, collision detection
 * **Robotics:** PX4 Autopilot, ROS, MoveIt, drone systems, swarm robotics, biped locomotion
-* **Embedded Systems:** ESP32, Teensy 4.1, Raspberry Pi, real-time control, PWM, MQTT, RTK GNSS
+* **Embedded Systems:** ESP32, Teensy 4.1, STM32, Raspberry Pi, real-time control, PWM, MQTT, RTK GNSS, nRF24, LoRa SX1278
 * **Programming:** C++, Python, MATLAB
 * **Tools:** Roboflow, ANSYS, Git, SQL
 

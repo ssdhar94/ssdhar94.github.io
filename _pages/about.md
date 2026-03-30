@@ -15,11 +15,10 @@ I hold a **Master's degree in Mechanics and Design from IIT Hyderabad**, where I
 
 - **Motion Planning** — trajectory generation, path planning, and collision avoidance for robotic platforms
 - **Autonomous Drones** — PX4-based UAV systems, flight controller integration, and autonomous navigation
-- **Systems Engineering** — bridging the gap between software stacks and mechanical/hardware constraints
-- **Embedded & Real-time Systems** — low-level software for robotics and aerospace-grade platforms
+- **Embedded & Real-time Systems** — low-level software for robotics platforms
 
 ## Background
 
-My experience spans both the software and mechanical domains, which makes me well-suited for roles that require reasoning across the full system stack — from algorithms and simulation down to actuation and structural constraints. I am actively seeking opportunities in **robotics, drone, and aerospace** companies, in roles such as Robotics Engineer or Systems Engineer.
+My experience spans both the software and mechanical domains, which makes me well-suited for roles that require reasoning across the full system stack — from algorithms and simulation down to actuation and structural constraints.
 
 Feel free to explore my [publications](/publications/), [CV](/cv/), or [portfolio](/portfolio/), or connect with me on [LinkedIn](https://www.linkedin.com/in/shyam-sridhar-n).
