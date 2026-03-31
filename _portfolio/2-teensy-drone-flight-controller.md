@@ -36,4 +36,4 @@ An experimental drone flight controller built from scratch performing **attitude
 
 ## Links
 
-- [Source Code (GitHub)](https://github.com/ssdhar94/Teensy-Drone)
+- [Source Code (GitHub)](https://github.com/shyamsridhar/Teensy-Drone)

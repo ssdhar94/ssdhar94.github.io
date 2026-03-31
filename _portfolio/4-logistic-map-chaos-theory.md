@@ -30,4 +30,4 @@ Aman Gautam, Neeli Shyam Sridhar, Boddepalli Pavan Kumar, Rudramuni TS, Nitesh S
 
 ## Links
 
-- [Source Code (GitHub)](https://github.com/ssdhar94/ME5010Project)
+- [Source Code (GitHub)](https://github.com/shyamsridhar/ME5010Project)

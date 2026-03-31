@@ -21,10 +21,10 @@ Contributed to the experimental validation of a **prismatic-knee underactuated b
 
 ## Experimental Demonstration
 
-![Prismatic biped obstacle crossing](https://raw.githubusercontent.com/ssdhar94/prismatic_biped_codes/main/output.gif)
+![Prismatic biped obstacle crossing](https://raw.githubusercontent.com/shyamsridhar/prismatic_biped_codes/main/output.gif)
 
 <video width="100%" controls>
-  <source src="https://raw.githubusercontent.com/ssdhar94/prismatic_biped_codes/main/thin_1_5x_720p30.m4v" type="video/mp4">
+  <source src="https://raw.githubusercontent.com/shyamsridhar/prismatic_biped_codes/main/thin_1_5x_720p30.m4v" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
@@ -36,6 +36,6 @@ Contributed to the experimental validation of a **prismatic-knee underactuated b
 
 ## Links
 
-- [Source Code (GitHub)](https://github.com/ssdhar94/prismatic_biped_codes)
-- [ST3215 Updated Library (GitHub)](https://github.com/ssdhar94/ST3215_library)
+- [Source Code (GitHub)](https://github.com/shyamsridhar/prismatic_biped_codes)
+- [ST3215 Updated Library (GitHub)](https://github.com/shyamsridhar/ST3215_library)
 - [Published Paper](https://doi.org/10.1016/j.robot.2026.105340)
