@@ -8,4 +8,4 @@ date: 2023-01-01
 location: "Hyderabad, India"
 ---
 
-Teaching Assistant for the *Data Acquisition and Control* laboratory course at IIT Hyderabad (2023–2025). Conducted hands-on lab sessions teaching students **Programmable Logic Controllers (PLCs)** and **Data Acquisition (DAQ)** systems, including sensor interfacing, signal conditioning, and real-time control implementation.
+Teaching Assistant for the *Data Acquisition and Control* laboratory at IIT Hyderabad (2023–2025), covering PLCs, NI DAQ-based sensor interfacing (strain gauges, signal conditioning), and interrupt-driven real-time control on Arduino.

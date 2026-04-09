@@ -7,18 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-I am a robotics engineer with a focus on **motion planning** and autonomous systems, currently at [Svaya Robotics](https://svayarobotics.com), Hyderabad. My work sits at the intersection of software and mechanical engineering — from planning algorithms and control systems to real-world hardware integration.
+I am a robotics engineer with a focus on **motion planning and control**, currently at [Svaya Robotics](https://svayarobotics.com), Hyderabad, where I work on manipulator systems spanning kinematics, dynamics, and real-time motion planning.
 
-I hold a **Master's degree in Mechanics and Design from IIT Hyderabad**, where I worked as a Research Assistant at the [ASPIRE Lab](https://aspirelabiith.github.io/) under Prof. R. Prasanth Kumar on autonomous drone systems using the **PX4 flight stack** — spanning flight controller integration, state estimation, and autonomous navigation. This hands-on experience with unmanned aerial systems, combined with my background in mechanical design, gives me a broad systems-level perspective that I bring to every project.
+I hold a **Master's degree in Mechanics and Design from IIT Hyderabad**, where I worked as a Research Assistant under Prof. R. Prasanth Kumar at the [ASPIRE Lab](https://aspirelabiith.github.io/) on autonomous drone systems. This work led to a **Best Paper Award at IEEE ICRM 2025** for a collaborative quadcopter swarm system for payload transport.
 
 ## What I work on
 
-- **Motion Planning** — trajectory generation, path planning, and collision avoidance for robotic platforms
-- **Autonomous Drones** — PX4-based UAV systems, flight controller integration, and autonomous navigation
-- **Embedded & Real-time Systems** — low-level software for robotics platforms
-
-## Background
-
-My experience spans both the software and mechanical domains, which makes me well-suited for roles that require reasoning across the full system stack — from algorithms and simulation down to actuation and structural constraints.
-
-Feel free to explore my [publications](/publications/), [CV](/cv/), or [portfolio](/portfolio/), or connect with me on [LinkedIn](https://www.linkedin.com/in/shyam-sridhar-n).
+- **Motion Planning:** RRT and RRT* path planners, trajectory planning, time-optimal path parameterization; exploring trajectory optimization for manipulator systems
+- **Manipulator Control:** kinematics, dynamics, and friction torque modeling for collision detection
+- **GNC:** attitude stabilization and IMU-based state estimation on custom hardware; RTK GNSS navigation and autonomous formation control for multi-drone systems
+- **Embedded & Real-time Systems:** real-time Linux for low-latency motion planning on robotic platforms
